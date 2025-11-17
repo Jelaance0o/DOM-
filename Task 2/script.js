@@ -8,3 +8,9 @@ btn.addEventListener('click',function(){
 
         box.style.backgroundColor =`rgb(${c1},${c2},${c3})`
 })
+
+
+// var arr = ["jelaance","stuti","lucky","shreyansh","som","nanu","pratham","piyush","nariyal"]
+
+// var ran = Math.floor(Math.random()*arr.length)
+// console.log(arr[ran])

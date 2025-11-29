@@ -15,14 +15,25 @@ main{
     padding: 38px;
     display: flex;
     align-items: center;
-    justify-content: center;
 }
-div{
-    height: 200px;
-    width: 400px;
-    background-color: rgb(141, 221, 255);
+#ctn{
+    height: 400px;
+    width: 90%;
+    background-color: rgb(47, 47, 48);
     text-align: center;
     padding: 50px;
     border-radius: 20px;
-    font-size: 60px;
+    display:inline-flex;
+    
+
+    .white{
+        background-color: white;
+        height: 100%;
+        width: 40px;
+    }
+    .black{
+        background-color: black;
+        height: 100%;
+        width: 40px;
+    }
 }

@@ -7,13 +7,13 @@ img.addEventListener('dblclick',function(){
 
     setTimeout(() => {
         love.style.transform ='translate(-50%,-300%) scale(1)rotate(-60deg)'       
-    }, 800);
+    }, 300);
     
     setTimeout(() => {
         love.style.opacity = 0       
-    }, 1000);
+    }, 400);
 
     setTimeout(() => {
         love.style.transform ='translate(-50%,-50%) scale(0)rotate(0deg)'       
-    }, 1200);
+    }, 500);
 })
